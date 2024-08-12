@@ -20,4 +20,4 @@ put tokens in tokens.txt in this format:
 token
 token
 ```
-Run vanish.exe or start.bat (run install.bat first to install everything needed)
+Run "python main.py" in terminal or install.bat (run install.bat first to install everything needed)
