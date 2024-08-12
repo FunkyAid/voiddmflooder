@@ -9,3 +9,8 @@ inspired by vanish dm flooder
 credits by virtual.cmd vanish dm flooder for base 
  # if u like the massdm tool then please support me and virtual.cmd at https://discord.gg/Mv4YQAK8F2 and https://discord.gg/kSNetSpH2U
 # some people say its malware but legit i just took the base changed the logo + text I DID NOT PUT MALWARE INSIDE it legit has src code so if ur not retarded u would know its not virus
+# Frequently Asked Questions (FAQs)
+
+Q. Is Void Flooder illegal and secure to use?
+
+└ Ans. Vanish with FunkyAid created the Void Flooder, And it has the same characteristics as Script. and it has a similar nature to the script. Thus, it behaves like Malware or viruses, so make sure to disable any sort of Anti-virus or windows defender.
