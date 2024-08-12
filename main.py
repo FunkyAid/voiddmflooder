@@ -105,7 +105,7 @@ async def main():
 
     if option == "1":
         print()
-        tokens = open('input/tokens.txt', 'r').read().splitlines()
+        tokens = open('tokens.txt', 'r').read().splitlines()
         uid = input(Colorate.Horizontal(Colors.blue_to_white, "VoidCord@cmd → User Id ~ "))
         if uid == '':
             await main()
