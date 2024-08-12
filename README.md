@@ -4,3 +4,4 @@
 ![IMG_5916](https://github.com/user-attachments/assets/38e63071-4197-4e4a-aafb-24cfc97c57f9)
 inspired by vanish dm flooder
 credits by virtual.cmd vanish dm flooder for base 
+like the massdm tool? then please support me and virtual.cmd at https://discord.gg/Mv4YQAK8F2 and https://discord.gg/kSNetSpH2U
