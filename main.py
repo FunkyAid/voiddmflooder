@@ -23,11 +23,11 @@ green = "\033[0;37;40m"
 
 # ~~ Source (do not mess with unless you know what you are doing) ~~ #
 
-emj = "stuff/emojis.txt"
+emj = "emojis.txt"
 
 def tkns():
-    if os.path.exists('input/tokens.txt'):
-        with open('input/tokens.txt', 'r') as file:
+    if os.path.exists('tokens.txt'):
+        with open('tokens.txt', 'r') as file:
             tokens = [line.strip() for line in file.readlines()]
             return tokens, len(tokens)
     return [], 0
