@@ -8,3 +8,4 @@ https://streamable.com/9q60xx
 inspired by vanish dm flooder
 credits by virtual.cmd vanish dm flooder for base 
  # if u like the massdm tool then please support me and virtual.cmd at https://discord.gg/Mv4YQAK8F2 and https://discord.gg/kSNetSpH2U
+# some people say its malware but legit i just took the base changed the logo + text I DID NOT PUT MALWARE INSIDE it legit has src code so if ur not retarded u would know its not virus
